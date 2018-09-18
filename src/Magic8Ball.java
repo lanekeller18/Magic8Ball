@@ -10,7 +10,7 @@ public static void main(String[]args){
     int number;
 
     keyboard = new Scanner(System.in);
-    System.out.println("Welcome to the Magic 8 Ball, what is you question?");
+    System.out.println("Welcome to the Magic 8 Ball, what is your yes or no question?");
     question = keyboard.nextLine();
     System.out.println("Choose a number 1-100.");
     number = keyboard.nextInt();
