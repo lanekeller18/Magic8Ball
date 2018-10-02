@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54e8e907-4ada-43a8-b6d6-5d3dd4a9c7c2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Magic8Ball/Magic8Ball.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Magic8Ball/Magic8Ball.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Magic8Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Magic8Ball.java" afterDir="false" />
-    </list>
+    <list default="true" id="54e8e907-4ada-43a8-b6d6-5d3dd4a9c7c2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
